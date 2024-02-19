@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oke Kolawole sunffday</h1>
-<h3 align="center">A Passion JS Developer</h3>
+<h1 align="center">Hi 👋, I'm Oke Kolawole Sunday</h1>
+<h3 align="center">A Passionate JS Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okekolawolesunday009" alt="okekolawolesunday009" /></a> </p>
 
