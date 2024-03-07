@@ -3,13 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okekolawolesunday009" alt="okekolawolesunday009" /></a> </p>
 
-- 🔭 I’m currently working on [E-learning Platform](https://eddify-frontend.onrender.com)
-
-- 🌱 I’m currently learning **PyFlask,**
-
-- 👨‍💻 All of my projects are available at [okekolawolesunday@netlify.app](okekolawolesunday@netlify.app)
-
-- 📝 I regularly write articles on [https://tech-bro-haha.hashnode.dev/](https://tech-bro-haha.hashnode.dev/)
+- 🔭 I’m currently Learning Software Engineering @AlxAfrica
 
 - 💬 Ask me about **react, js**
 
