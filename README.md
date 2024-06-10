@@ -12,9 +12,7 @@
 
   
 <h3 align="left">#Alxafrica Specialization Project:</h3>
- <p align="center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/majY0LEN1Wc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/majY0LEN1Wc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 <h3 align="left">#Alxafrica Foundation Project:</h3>
