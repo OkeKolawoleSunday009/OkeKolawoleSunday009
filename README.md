@@ -12,8 +12,12 @@
 
   
 <h3 align="left">#Alxafrica Specialization Project:</h3>
-<p align="left"> <a href="https://www.youtube.com/watch?si=UqFm4csMNs2UzSc3&v=majY0LEN1Wc&feature=youtu.be"><img src="[https://github-profile-trophy.vercel.app/?username=okekolawolesunday009](https://www.youtube.com/watch?si=UqFm4csMNs2UzSc3&v=majY0LEN1Wc&feature=youtu.be)" alt="simplicy" /></a> </p>
-
+<a href="https://www.youtube.com/watch?si=UqFm4csMNs2UzSc3&v=majY0LEN1Wc&feature=youtu.be" rel="nofollow">
+<p align="center" dir="auto">Watch Video Website Demo</p>
+<p align="center" dir="auto">
+<img width="70%" src="https://github.com/nagwaka/simplicy/blob/master/simplicy.png" alt="okekolawolesunday009" secured-asset-link="" style="max-width: 100%;"></p>
+</a>
+<p align="left"> <a href="https://www.youtube.com/watch?si=UqFm4csMNs2UzSc3&v=majY0LEN1Wc&feature=youtu.be"><img src="" alt="simplicy" /></a> </p>
 
   
 <h3 align="left">#Alxafrica Foundation Project:</h3>
