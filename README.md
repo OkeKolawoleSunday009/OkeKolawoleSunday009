@@ -4,10 +4,22 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okekolawolesunday009" alt="okekolawolesunday009" /></a> </p>
 
 - 🔭 I’m currently Learning Software Engineering @AlxAfrica
+- 🔭 I'm currently working on Web Project(AdvanceTech)
 
-- 💬 Ask me about **react, js**
+- 💬 Ask me about **reactjs, js, python, MySQL**
 
 - 📫 How to reach me **okekolawolesunday@gmail.com**
+
+  
+<h3 align="left">#Alxafrica Specialization Project:</h3>
+ <p align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/majY0LEN1Wc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+
+  
+<h3 align="left">#Alxafrica Foundation Project:</h3>
+<p align="left"> <a href="https://medium.com/@kasshymoni0812/announcing-eddify1-0-f22a8a8d7c0a">Eddify Blog post</a></p>
+<p align="left"> <a href="https://github.com/timishot/EDDIFY">Eddify : e-learning web platform</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
